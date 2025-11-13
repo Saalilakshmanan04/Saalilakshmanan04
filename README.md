@@ -14,6 +14,7 @@
 💻 I’m currently developing projects using **Java**, **Spring**, and **Spring Boot**  
 🌱 Expanding my skills in **React.js** and modern **Full Stack Development**  
 💡 Passionate about creating **clean, scalable applications** with a focus on **design and performance**  
+🧠 I have knowledge in **Networking Fundamentals**, **Troubleshooting**, and **Linux Basics**  
 📫 Reach me at: **saalilakshmanan04@gmail.com**
 
 ---
