@@ -41,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
 </p>
 
-</div>
 ### 🧠 Knowledge in  
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/0088cc/network.png" width="45" height="45" alt="Networking"/>
@@ -49,3 +48,5 @@
   <img src="https://img.icons8.com/ios-filled/50/ffcc00/maintenance.png" width="45" height="45" alt="Troubleshooting"/>
 </p>
 
+
+</div>
