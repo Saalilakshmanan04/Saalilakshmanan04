@@ -2,7 +2,12 @@
 <div align="center">
 
 ## 👋 Hi, I'm **Saali Deivanai L**  
-### 💻 Java Full Stack Developer  
+### <p align="center">
+  💻 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer" alt="Typing Animation" />
+</p>
+
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saalilakshmanan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saalilakshmanan04@gmail.com)
