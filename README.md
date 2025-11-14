@@ -3,9 +3,9 @@
 
 ## 👋 Hi, I'm **Saali Deivanai L**  
 ### <p align="center">
-  💻 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF5733,FFC300,28A745,1E90FF&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Java+Full+Stack+Developer" alt="Typing Animation" />
 </p>
+
 
   
 
